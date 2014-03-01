@@ -1,0 +1,8 @@
+D:\_PROJECT\testdelme\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\_PROJECT\testdelme\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\_PROJECT\testdelme\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\_PROJECT\testdelme\ConsoleApplication2\ConsoleApplication2\bin\Debug\TreeSharp.dll
+D:\_PROJECT\testdelme\ConsoleApplication2\ConsoleApplication2\bin\Debug\TreeSharp.pdb
+D:\_PROJECT\testdelme\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\_PROJECT\testdelme\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\_PROJECT\testdelme\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
